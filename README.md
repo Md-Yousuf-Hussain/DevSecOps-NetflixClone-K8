@@ -14,8 +14,7 @@
   <p align="center">Home Page</p>
 </div>
 
-# **Reference Link**
-(https://youtu.be/g8X5AoqCJHc)
+**Reference Link** https://youtu.be/g8X5AoqCJHc
 
 # Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
 
